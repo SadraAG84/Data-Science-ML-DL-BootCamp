@@ -18,7 +18,7 @@ def findPattern(word,pattern):
     
     index = word.find(pattern)
     if pattern in word.lower():
-        return index
+        return print(index)
     else:
         return -1
     

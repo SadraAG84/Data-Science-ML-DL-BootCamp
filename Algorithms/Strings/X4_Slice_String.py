@@ -12,6 +12,6 @@ user_input = str(input("Please enter the word: "))
 
 def sliceString(word):
     #Write your code below
-    return word[1:-1]
+    return print(word[1:-1])
 
 sliceString(word= user_input)
