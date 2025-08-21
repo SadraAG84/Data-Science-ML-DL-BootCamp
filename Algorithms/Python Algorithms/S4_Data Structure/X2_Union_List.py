@@ -24,7 +24,7 @@ def getting_elements2():
     num_elements = int(input("How many elements do the list2 will have? "))
     for i in range(num_elements):
         value = int(input(f"Please enter the value of {i + 1}.element: "))
-        list1.append(value)
+        list2.append(value)
 
 
 
